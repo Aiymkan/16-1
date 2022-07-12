@@ -1,0 +1,28 @@
+
+
+
+body{
+font-damily:Verdana,Helvetica;
+text-align:center;
+margin:150px auto 0 auto;
+background-color:#000;
+color:#fff;
+}
+#rl,#yl,#gl{
+display:inline-block;
+width:100px;
+height:100px;
+margin:4px;
+border:1px solid #000;
+border-radius:51px;
+font-size:84px;
+font-weight:bold;
+color:crimson;
+}
+#rl{background-color:red;}
+#yl{background-color:yellow;}
+#gl{background-color:green;}
+
+.blk{
+visibility:hidden;
+}
