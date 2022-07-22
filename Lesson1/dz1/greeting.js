@@ -9,8 +9,6 @@ const arr2 = [12, 1,5];
 console.log(arr1.length)
 console.log(arr2.length)
 
-
-//* не поняла, взяла из интернета =(((
 var x = "color"
     switch(x){
         case 1:  alert("red");
