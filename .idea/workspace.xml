@@ -6,6 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="906191e1-8003-430b-9434-6768744473f2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/.idea/Lesson_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/.idea/Lesson_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/dz1/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/dz1/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/dz1/greeting.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/dz1/greeting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/dz1/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/dz1/html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +103,7 @@
       <workItem from="1657532522079" duration="4445000" />
       <workItem from="1657714213304" duration="4866000" />
       <workItem from="1657972836900" duration="35461000" />
-      <workItem from="1658318543721" duration="8853000" />
+      <workItem from="1658318543721" duration="9460000" />
     </task>
     <servers />
   </component>
@@ -102,7 +114,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Lesson_1/main.py</url>
+          <url>file://$PROJECT_DIR$/Lesson1/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
