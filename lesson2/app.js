@@ -78,7 +78,3 @@
 // }
 // console.log(list);
 
-let user = 'Pety';
-let username = 'Vasy';
-user = username
-console.log(user)

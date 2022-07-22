@@ -38,13 +38,13 @@ button.onclick = () => {
 
 
 }
-    changeButton.onclick = () => {
-        const text = prompt('text');
-        div.innerText = text;
-    }
-    deleteButton.onclick = () => {
-        document.querySelector('.block').remove()
-    }
+    // changeButton.onclick = () => {
+    //     const text = prompt('text');
+    //     div.innerText = text;
+    // }
+    // deleteButton.onclick = () => {
+    //     document.querySelector('.block').remove()
+    // }
 //
 // function test (){
 //     let element = document.getElementById("change1");
