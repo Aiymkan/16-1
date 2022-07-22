@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#blockId.active{
+    background: green;
+}
+
+.test{
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+}
+.block{
+
+}
