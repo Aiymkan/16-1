@@ -1,0 +1,18 @@
+.wrapperB {
+    margin-top: 80px;
+}
+.parent {
+    position: relative;
+    width: 700px;
+    height: 100px;
+    background: plum;
+}
+.child {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: cyan;
+}
+.click {
+    margin-left: 700px;
+}
